@@ -1,0 +1,7 @@
+.Content-Tabs li{
+    display:inline;
+}
+
+.Content-Tabs li a{
+    text-decoration: none
+}
